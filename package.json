@@ -1,5 +1,5 @@
 {
-  "name": "lerna-demo",
+  "name": "lerna-demo-test",
   "private": true,
   "devDependencies": {
     "lerna": "^3.13.4"
