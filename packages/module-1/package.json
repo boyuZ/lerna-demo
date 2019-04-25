@@ -1,5 +1,5 @@
 {
-  "name": "module-1",
+  "name": "module-1-test",
   "version": "0.1.3",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "46a933f56e7f4cd4839f96e87d366e58345ba577"
+  "gitHead": "72b8fbfc4648c35320cc5370bacb06cf10bd6873"
 }
