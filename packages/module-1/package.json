@@ -1,5 +1,5 @@
 {
-  "name": "module-1-test",
+  "name": "@zhangby-module-1-test",
   "version": "0.1.4",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "72b8fbfc4648c35320cc5370bacb06cf10bd6873"
+  "gitHead": "0564913c2113130f1133ae6d77c4d28edc2a6b82"
 }
