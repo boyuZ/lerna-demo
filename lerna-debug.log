@@ -1,13 +1,9 @@
-0 silly argv { _: [ 'publish' ],
-0 silly argv   composed: 'publish',
-0 silly argv   lernaVersion: '3.13.4',
-0 silly argv   '$0': 'C:\\Users\\zhangboyu\\AppData\\Roaming\\npm\\node_modules\\lerna\\cli.js' }
-1 notice cli v3.13.4
-2 verbose rootPath D:\workspace\prj\lerna-demo
-3 error Error: Invalid package name "@zhangby-module-1-test": name can only contain URL-friendly characters
-3 error     at invalidPackageName (C:\Users\zhangboyu\AppData\Roaming\npm\node_modules\lerna\node_modules\_npm-package-arg@6.1.0@npm-package-arg\npa.js:82:15)
-3 error     at Result.setName (C:\Users\zhangboyu\AppData\Roaming\npm\node_modules\lerna\node_modules\_npm-package-arg@6.1.0@npm-package-arg\npa.js:118:11)
-3 error     at new Result (C:\Users\zhangboyu\AppData\Roaming\npm\node_modules\lerna\node_modules\_npm-package-arg@6.1.0@npm-package-arg\npa.js:107:23)
-3 error     at Function.resolve (C:\Users\zhangboyu\AppData\Roaming\npm\node_modules\lerna\node_modules\_npm-package-arg@6.1.0@npm-package-arg\npa.js:54:15)
-3 error     at new Package (C:\Users\zhangboyu\AppData\Roaming\npm\node_modules\lerna\node_modules\_@lerna_package@3.13.0@@lerna\package\index.js:36:26)
-3 error     at loadJsonFile.then.packageJson (C:\Users\zhangboyu\AppData\Roaming\npm\node_modules\lerna\node_modules\_@lerna_project@3.13.1@@lerna\project\index.js:172:24)
+51 error Error: Command failed: git push --follow-tags --no-verify origin master
+51 error fatal: TaskCanceledException encountered.
+51 error    ��ȡ��һ������
+51 error remote: Anonymous access to boyuZ/lerna-demo.git denied.
+51 error fatal: Authentication failed for 'https://github.com/boyuZ/lerna-demo.git/'
+51 error
+51 error     at makeError (C:\Users\zhangboyu\AppData\Roaming\npm\node_modules\lerna\node_modules\_execa@1.0.0@execa\index.js:174:9)
+51 error     at Promise.all.then.arr (C:\Users\zhangboyu\AppData\Roaming\npm\node_modules\lerna\node_modules\_execa@1.0.0@execa\index.js:278:16)
+51 error     at <anonymous>
