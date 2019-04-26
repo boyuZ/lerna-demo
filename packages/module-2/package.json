@@ -1,13 +1,13 @@
 {
   "name": "zhangby-module2",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "zhangby-module": "^0.1.6"
+    "zhangby-module": "^0.1.7"
   },
   "author": "",
   "license": "ISC",
